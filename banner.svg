@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Patient Management System</title>
+  <desc id="desc">A clean navy and teal banner with a medical record card illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101b2d"/>
+      <stop offset="100%" stop-color="#173e4b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#56d6c5"/>
+      <stop offset="100%" stop-color="#3aa6b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <circle cx="1080" cy="60" r="150" fill="#56d6c5" opacity=".07"/>
+  <circle cx="990" cy="320" r="170" fill="#56d6c5" opacity=".06"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="115" fill="#56d6c5" font-size="18" font-weight="700" letter-spacing="4">C LANGUAGE • CLI PROJECT</text>
+    <text x="72" y="175" fill="#ffffff" font-size="43" font-weight="700">Patient Management</text>
+    <text x="72" y="225" fill="#ffffff" font-size="43" font-weight="700">System</text>
+    <text x="74" y="270" fill="#c4d6df" font-size="19">A simple, menu-driven patient record manager</text>
+  </g>
+  <g transform="translate(865 58)">
+    <rect x="0" y="0" width="230" height="225" rx="18" fill="#f7fbfc"/>
+    <rect x="0" y="0" width="230" height="52" rx="18" fill="url(#accent)"/>
+    <rect x="0" y="34" width="230" height="18" fill="url(#accent)"/>
+    <circle cx="28" cy="26" r="10" fill="#ffffff" opacity=".95"/>
+    <path d="M28 19v14M21 26h14" stroke="#188a8c" stroke-width="3" stroke-linecap="round"/>
+    <rect x="20" y="75" width="52" height="62" rx="8" fill="#dceff0"/>
+    <circle cx="46" cy="94" r="10" fill="#3aa6b6"/>
+    <path d="M29 124c2-12 32-12 34 0" fill="#3aa6b6"/>
+    <rect x="88" y="78" width="116" height="9" rx="4.5" fill="#173e4b" opacity=".85"/>
+    <rect x="88" y="96" width="87" height="7" rx="3.5" fill="#9db5bf"/>
+    <rect x="88" y="111" width="101" height="7" rx="3.5" fill="#9db5bf"/>
+    <rect x="20" y="157" width="184" height="1.5" fill="#d6e3e7"/>
+    <rect x="20" y="174" width="83" height="8" rx="4" fill="#9db5bf"/>
+    <rect x="20" y="191" width="126" height="8" rx="4" fill="#9db5bf"/>
+    <circle cx="193" cy="190" r="15" fill="#d8f5ec"/>
+    <path d="M186 190l5 5 9-11" fill="none" stroke="#17866f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
