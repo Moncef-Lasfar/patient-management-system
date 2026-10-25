@@ -145,3 +145,11 @@ Patient records can contain sensitive personal information. Use fictional data f
 ## License
 
 No license has been added yet. Add a `LICENSE` file if you want to specify how others may use, modify, and redistribute this project.
+
+## Author
+
+**Moncef Lasfar**
+
+Designed and developed by me as a C programming project to practice structured programming, searching, sorting, and file handling.
+
+- GitHub: [@Moncef-Lasfar](https://github.com/Moncef-Lasfar)
